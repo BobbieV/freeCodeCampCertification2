@@ -1,0 +1,62 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="styles.css">
+    <meta name="author" content="Bobbie V">
+    <meta name="title" content="Vienna Sausage">
+    <meta name="description" content="A webpage about my dog, Vienna Marie Sausage">
+    <meta name="URL" content="www.viennamariesausage.com">
+    <title>Vienna Sausage Tribute Page</title>
+  </head>
+  <main id="main">
+  <h1 id="title">Vienna Sausage</h1>
+  <fieldset><div id="img-div"><img src="https://iambobbiev.files.wordpress.com/2023/02/img_4855.png?resize=320%2C320" id="image">
+  <figcaption id="img-caption">What a fat lil Sausage</figcaption></div></fieldset>
+  <p id="tribute-info">Vienna Marie Sausage was born June 30, 2021.  She is one of 72 puppies born to Hamantha Dogness, of Makawao.</p>
+
+  <a href="www.freecodecamp.org" target="_blank" id="tribute-link"
+  </main>
+  <footer></footer>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+main {  background-color: #F2E1AE;
+}
+.img-div {
+  display: flex;
+  margin: 0 auto;
+}
+img {
+  display: block;
+  max-width:100%;
+  height: auto;
+  margin: 0 auto;
+  justify-content: center;
+  padding-top: 40px;
+}
+footer {
+  background-color: grey;
+}
+h1 {
+  display: flex:
+  margin: 0 auto;
+  padding: 10px;
+  text-align: center;
+  font-family: Georgia, Times-New_Roman;
+}
+figcaption {
+  text-align: center;
+  padding: 10px;
+}
+fieldset {
+  background-color: #F23D4C
+}
+
+
+** end of undefined **
+
